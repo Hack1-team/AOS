@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/activity_home.xml" value="0.2564102564102564" />
-        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/item_eventpage.xml" value="0.22" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/drawable/circle_shape.xml" value="0.1" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/drawable/ic_home_add_eventpage.xml" value="0.1" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/drawable/ic_home_item_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/drawable/shape_border_radius.xml" value="0.268" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/82108/AndroidStudioProjects/2022_hakerton/AOS/app/src/main/res/layout/item_eventpage.xml" value="0.25" />
       </map>
     </option>
   </component>
