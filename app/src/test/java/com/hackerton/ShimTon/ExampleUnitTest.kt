@@ -1,4 +1,4 @@
-package com.hackerton.tonmeet
+package com.hackerton.ShimTon
 
 import org.junit.Test
 

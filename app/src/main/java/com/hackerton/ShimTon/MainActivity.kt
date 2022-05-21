@@ -1,4 +1,4 @@
-package com.hackerton.tonmeet
+package com.hackerton.ShimTon
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

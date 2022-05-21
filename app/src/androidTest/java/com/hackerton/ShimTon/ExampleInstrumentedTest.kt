@@ -1,4 +1,4 @@
-package com.hackerton.tonmeet
+package com.hackerton.ShimTon
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
